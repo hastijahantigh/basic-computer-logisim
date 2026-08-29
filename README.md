@@ -33,12 +33,10 @@ Separate control circuits generate the signals required by the registers, sequen
 
 ![Control logic](images/control-logic.png)
 
-<details>
 <summary>View the complete computer circuit</summary>
 
 ![Complete computer circuit](images/computer-overview.png)
 
-</details>
 
 ## Project Structure
 

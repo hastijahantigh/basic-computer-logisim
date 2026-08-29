@@ -4,7 +4,7 @@ A register-transfer-level implementation of a 16-bit basic computer, designed an
 
 This project was developed as a Computer Architecture course project. It combines a shared system bus, memory, registers, an arithmetic logic unit, and dedicated control circuits into a complete digital computer design.
 
-![Computer datapath](images/datapath.png)
+
 
 ## Architecture
 
@@ -27,12 +27,6 @@ The design includes:
 
 ## Design Views
 
-### Datapath
-
-The main datapath connects memory, registers, the ALU, and the shared bus.
-
-![Datapath](images/datapath.png)
-
 ### Control Logic
 
 Separate control circuits generate the signals required by the registers, sequence counter, input/output flags, and processor state.
@@ -53,7 +47,6 @@ basic-computer-logisim/
 ├── basic-computer.circ
 ├── images/
 │   ├── computer-overview.png
-│   ├── datapath.png
 │   └── control-logic.png
 └── README.md
 ```

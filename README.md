@@ -44,7 +44,7 @@ Separate control circuits generate the signals required by the registers, sequen
 
 ```text
 basic-computer-logisim/
-├── basic-computer.circ
+├── Basic-comp.circ
 ├── images/
 │   ├── computer-overview.png
 │   └── control-logic.png
